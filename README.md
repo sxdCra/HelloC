@@ -1,0 +1,2 @@
+# HelloC
+just a example
